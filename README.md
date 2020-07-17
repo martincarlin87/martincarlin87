@@ -12,9 +12,9 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css)
 
 ## Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
-![nginx](https://img.shields.io/badge/-nginx-269539?style=flat-square&logo=nginx)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat-square&logo=laravel)
+![nginx](https://img.shields.io/badge/-nginx-333333?style=flat-square&logo=nginx)
 
 ## Database
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
