@@ -16,9 +16,9 @@
 
 ## Version Control
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <!--
 **martincarlin87/martincarlin87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
