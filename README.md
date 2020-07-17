@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Martin_Carlin-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/martincarlin87)](https://twitter.com/martincarlin87)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Martin_Carlin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martincarlin87)](https://www.linkedin.com/in/ishagupta20/)
+[![Linkedin Badge](https://img.shields.io/badge/-Martin_Carlin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martincarlin87)](https://www.linkedin.com/in/martincarlin87/)
 
 [![Gmail Badge](https://img.shields.io/badge/-martin@martincarlin.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martin@martincarlin.uk)](mailto:martin@martincarlin.uk)
 
