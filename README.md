@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martincarlin87&show_icons=true&hide_border=true)
 
+[![HitCount](http://hits.dwyl.com/piyushsuthar/piyushsuthar.svg)](http://hits.dwyl.com/martincarlin87/martincarlin87)
+
 
