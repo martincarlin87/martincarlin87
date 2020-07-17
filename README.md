@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Martin_Carlin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martincarlin87)](https://www.linkedin.com/in/ishagupta20/)
 
-[![Gmail Badge](https://img.shields.io/badge/-martin@martincarlin.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martin@martincarlin.uk)](mailto:martin@martincarlin.uk
+[![Gmail Badge](https://img.shields.io/badge/-martin@martincarlin.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martin@martincarlin.uk)](mailto:martin@martincarlin.uk)
 
 <!--
 **martincarlin87/martincarlin87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
